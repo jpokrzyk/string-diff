@@ -17,7 +17,7 @@
  * limitations under the License.
  */
 
-package com.carematics;
+package com.carematics.stringdiff;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;

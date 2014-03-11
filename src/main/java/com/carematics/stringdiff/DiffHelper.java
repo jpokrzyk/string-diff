@@ -1,4 +1,4 @@
-package com.carematics;
+package com.carematics.stringdiff;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang.StringUtils;
@@ -65,8 +65,8 @@ public class DiffHelper {
         System.out.println("Diffs3 total: " + lineText1.length());
     }
 
-    pricate int lineDiffs() {
-
+    private int lineDiffs() {
+        return 0;
     }
 
 
